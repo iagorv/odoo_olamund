@@ -1,0 +1,11 @@
+<odoo>
+    <data>
+        <menuitem id="main_odoo_olamundo" name="Menú nivel 0. Ola mundo"/>
+
+        <menuitem id="main_olamundo" name="Menú nivel 1. Ola mundo" parent="main_odoo_olamundo" action="olamundo_list_action"/>
+
+
+    </data>
+
+
+</odoo>
